@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Lucas
 - 👀 I’m interested in QA, games and FOSS.
-- 🌱 I’m currently studing to be CTFL certified.
-- 🎉 I found a job.
+- ⭐ CTFL qualified
+- 🌱 I'm currently studying postgraduate studies in Software Quality Engineering.
 
 <!---
 Lugrol/Lugrol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
